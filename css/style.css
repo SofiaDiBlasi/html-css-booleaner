@@ -17,5 +17,24 @@ header{
  margin-bottom: 5px;
 }
 
+main{
+  padding-left: 75px;
+  padding-right: 75px;
+}
 
+h1{
+  margin-top:10px;
+  margin-bottom: 0px;
+}
 
+.color-grey{
+  color: grey;
+}
+
+.small-size{
+  font-size: 12px;
+}
+
+.autore{
+color: deepskyblue;
+}
